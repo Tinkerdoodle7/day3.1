@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Name the sport</string>
+    <string name="answer">Curling</string>
+    <string name="q1">Check the names of this sport</string>
+    <string name="q2">Identify</string>
+    <string name="q3">Describe</string>
+    <string name="button">Submit</string>
+    <string name="button2">Reset</string>
+    <string name="hint">Type here</string>
+</resources>
